@@ -1,2 +1,0 @@
-Network Scan Report
-Open ports: [80, 443, 22]
